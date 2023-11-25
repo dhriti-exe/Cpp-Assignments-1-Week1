@@ -1,0 +1,2 @@
+Q: What is the output of this program?
+6 4 
